@@ -2,9 +2,10 @@
 
 Web App for saving memo's to your local device.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://coderrob22.github.io/Memos-Local-Storage/
 
-![alt tag](http://placecorgi.com/1200/650)
+<img width="1439" alt="Screen Shot 2023-04-07 at 10 32 47 AM" src="https://user-images.githubusercontent.com/105181695/230626754-a65e03f4-2ee0-4024-8c41-3a949262a1be.png">
+
 
 ## How It's Made:
 
@@ -14,7 +15,6 @@ I built this project using vanilla js, local storage for storing the information
 
 ## Optimizations
 
-_(optional)_
 
 One thing I would optimize is the layout of the page. I could lay some tailwind.css or even react/angular on top of this.
 
